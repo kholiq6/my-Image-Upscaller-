@@ -1,0 +1,5 @@
+{
+  "name": "8K AI Image Upscaler",
+  "description": "An AI-powered tool to upscale images to 2x, 4x, or 8K resolution. Upload an image, choose your desired resolution, and let Gemini AI enhance it to a high-quality PNG, ready for download.",
+  "requestFramePermissions": []
+}
